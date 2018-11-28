@@ -1,2 +1,2 @@
-# box-office-revenue
+# housing-prices
 Stanford AI Group
